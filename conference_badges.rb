@@ -30,3 +30,9 @@ def printer(attendees)
     puts id
   end
 end
+
+#attendees: Edsger, Ada, Charles, Alan, Grace, Linus, Matz
+
+#assign_rooms(attendees)
+#Hello, Edsger! You'll be assigned to room 1! (ID)
+#Hello, Ada! You'll be assigned to room 2! (ID)
